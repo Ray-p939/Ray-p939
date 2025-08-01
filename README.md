@@ -10,10 +10,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=86BBD8&width=435&lines=Hi%2C+I'm+Ray+Paredes;Customer+Experience+%7C+MIS+Student;Future+Data+Analyst+in+Training" alt="Typing SVG"/>
 </a>
 
-<!-- Terminal GIF is optional; you can replace this with an image if you want -->
-<div>
-    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" alt="Ray Terminal"/>
-</div>
 
 ### 🎯 About Me
 Customer Experience Specialist with 3+ years in pharmacy and retail environments. I enjoy helping customers solve problems while using data to improve operations. I'm currently earning my B.S. in Management Information Systems at Rutgers, where I’m building skills in SQL, Python, Excel, and SAP ERP.
