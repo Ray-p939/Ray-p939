@@ -1,40 +1,58 @@
-# 👋 Hi, I'm Ray Paredes
-
-**Customer Experience Specialist | Aspiring Data Analyst**  
-|&nbsp; 🎓 B.S. in Management Information Systems (Rutgers 2025)
-
----
-
-I'm passionate about solving real-world problems with data and delivering excellent customer experiences. My background blends hands-on service in fast-paced retail and pharmacy environments with academic training in **SQL, Python, and Excel**.
-
----
-
-## 🛠 Skills
-
-- **Data Analysis:** SQL, Python (pandas, matplotlib), Microsoft Excel
-- **Customer Experience:** Communication, Problem-solving, Empathy, Conflict resolution
-- **Business & Management:** Project coordination, Team collaboration, Process improvement
-
----
-
-## 🚀 Projects
-
-- **Retail Sales Data Insights**  
-  Analyzed retail sales data using Python and SQL to uncover trends and optimize inventory management.
-- **Customer Feedback Dashboard**  
-  Built an interactive dashboard in Excel to visualize customer satisfaction metrics and identify service improvement opportunities.
-- *(Add more projects here as you complete them!)*
-
----
-
-## 🎓 Certifications
-
-- Google Data Analytics Professional Certificate *(in progress/completed)*
-- Microsoft Excel Specialist *(in progress/completed)*
-- *(Add more certifications here!)*
-
----
-
 <!--
-**Ray-p939/Ray-p939** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Hey there, I'm Ray Paredes!
+    Thanks for visiting my GitHub.
+    Feel free to explore, get inspired—and let's connect!
 -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=86BBD8&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=86BBD8&width=435&lines=Hi%2C+I'm+Ray+Paredes;Customer+Experience+%7C+MIS+Student;Future+Data+Analyst+in+Training" alt="Typing SVG"/>
+</a>
+
+<!-- Terminal GIF is optional; you can replace this with an image if you want -->
+<div>
+    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" alt="Ray Terminal"/>
+</div>
+
+### 🎯 About Me
+Customer Experience Specialist with 3+ years in pharmacy and retail environments. I enjoy helping customers solve problems while using data to improve operations. I'm currently earning my B.S. in Management Information Systems at Rutgers, where I’m building skills in SQL, Python, Excel, and SAP ERP.
+
+I’m passionate about simplifying processes, tracking performance, and delivering service that actually *works*.
+
+---
+
+### 🛠️ Tools & Skills
+[![My Skills](https://skillicons.dev/icons?i=py,sql,html,css,github,git,excel,vscode)](https://skillicons.dev)
+
+- SAP ERP, Meditech, POS Systems  
+- Python, SQL (PostgreSQL, MySQL)  
+- Excel (dashboards, KPIs), Data Entry & Reporting  
+- Customer Support | Team Training | Order Accuracy  
+
+---
+
+### 📊 Projects
+#### 🏦 **Citibank Digital Platform Analysis**
+- Built Excel dashboards with KPIs to assess digital banking performance  
+- Used public datasets to benchmark Citibank vs competitors  
+- Presented simulated client report with recommendations  
+
+_More projects coming soon—stay tuned!_
+
+---
+
+### 📌 Connect With Me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ray--paredes--4454a4132-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ray-paredes-4454a4132)
+
+📫 Email: reyparedes22@gmail.com
+
+---
+
+### 📄 Resume
+> [!IMPORTANT]  
+> 📄 [View My Resume](https://docs.google.com/document/d/1xVOFE9HLMrXwKOiTyUV_8JHfzuLErzad/view)
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=86BBD8&height=120&section=footer" alt="footer"/>
