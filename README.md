@@ -7,9 +7,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=86BBD8&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=86BBD8&width=435&lines=Hi%2C+I'm+Ray+Paredes;Customer+Experience+%7C+MIS+Student;Future+Data+Analyst+in+Training" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=86BBD8&width=600&lines=Hi%2C+I'm+Ray+Paredes;Customer+Experience+%7C+MIS+Student;Future+Data+Analyst+in+Training" alt="Typing SVG"/>
 </a>
 
+---
 
 ### 🎯 About Me
 Customer Experience Specialist with 3+ years in pharmacy and retail environments. I enjoy helping customers solve problems while using data to improve operations. I'm currently earning my B.S. in Management Information Systems at Rutgers, where I’m building skills in SQL, Python, Excel, and SAP ERP.
@@ -19,17 +20,14 @@ I’m passionate about simplifying processes, tracking performance, and deliveri
 ---
 
 ### 🛠️ Tools & Skills
-[![My Skills](https://skillicons.dev/icons?i=py,sql,html,css,github,git,excel,vscode)](https://skillicons.dev)
 
-- SAP ERP, Meditech, POS Systems  
-- Python, SQL (PostgreSQL, MySQL)  
-- Excel (dashboards, KPIs), Data Entry & Reporting  
-- Customer Support | Team Training | Order Accuracy  
+[![My Skills](https://skillicons.dev/icons?i=py,sql,html,css,excel,git,github,vscode,sap)](https://skillicons.dev)
 
 ---
 
 ### 📊 Projects
-#### 🏦 **Citibank Digital Platform Analysis**
+
+#### 🏦 Citibank Digital Platform Analysis
 - Built Excel dashboards with KPIs to assess digital banking performance  
 - Used public datasets to benchmark Citibank vs competitors  
 - Presented simulated client report with recommendations  
@@ -39,8 +37,8 @@ _More projects coming soon—stay tuned!_
 ---
 
 ### 📌 Connect With Me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ray--paredes--4454a4132-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ray-paredes-4454a4132)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ray--paredes--4454a4132-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ray-paredes-4454a4132)  
 📫 Email: reyparedes22@gmail.com
 
 ---
