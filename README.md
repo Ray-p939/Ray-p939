@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ray Paredes
 
 **Customer Experience Specialist | Aspiring Data Analyst**  
-📍 Bayonne, NJ &nbsp;|&nbsp; 🎓 B.S. in Management Information Systems (Rutgers 2025)
+|&nbsp; 🎓 B.S. in Management Information Systems (Rutgers 2025)
 
 ---
 
