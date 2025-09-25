@@ -19,12 +19,6 @@ I’m passionate about simplifying processes, tracking performance, and deliveri
 
 ---
 
-### 🛠️ Tools & Skills
-
-[![My Skills](https://skillicons.dev/icons?i=py,sql,html,css,excel,git,github,vscode,sap)](https://skillicons.dev)
-
----
-
 ### 📊 Projects
 
 #### 🏦 Citibank Digital Platform Analysis
